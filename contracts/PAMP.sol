@@ -42,7 +42,7 @@ contract PAMP is ERC721URIStorage{
         _;
     }
 
-    constructor() ERC721("Metaverse Tokens", "METT") {
+    constructor() ERC721("Pamp", "PAMP") {
         owner = payable(msg.sender);
     }
 
