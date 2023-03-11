@@ -1,13 +1,11 @@
-# Sample Hardhat Project
+# Steps to follow:
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+## Download the files of this repo and cd over to that directory and type the following in your terminal to start your server.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
 ```
+npm run dev
+```
+# PAMP
+
+## pamp is a physical asset marketplace where people can buy and sell their physical assets using blockchain technology.
+## we used 5ire chain to make the transactions more faster and secure with less gas fee.
