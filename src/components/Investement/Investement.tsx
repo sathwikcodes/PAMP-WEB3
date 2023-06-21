@@ -98,7 +98,7 @@ export const InvestmentSection = () => {
               </List.Item>
               <List.Item>
                 Investing in physical assets can provide investors with regular
-                income from rental payments or profits from the asset's
+                income from rental payments or profits from the assets
                 appreciation.
               </List.Item>
             </List>
