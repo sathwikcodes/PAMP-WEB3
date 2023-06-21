@@ -117,7 +117,7 @@ export const InvestmentSection = () => {
               </Button>
             </Group>
           </div>
-          <Image src={"/land_image.svg"} className={classes.image} />
+          <Image alt="image" src={"/land_image.svg"} className={classes.image} />
         </div>
       </Container>
     </div>

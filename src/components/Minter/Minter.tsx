@@ -98,6 +98,7 @@ export function Minter() {
       </div>
       <div>
         <img
+          alt="image"
           width={500}
           style={{ display: "block", margin: "auto" }}
           src={files.length ? URL.createObjectURL(files[0]) : ""}
